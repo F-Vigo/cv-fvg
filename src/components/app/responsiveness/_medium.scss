@@ -1,0 +1,46 @@
+@media screen and (max-width: 768px) {
+    
+
+    #lang_selector_button {
+        margin-left: 30px !important;
+    }
+
+    #back_button {
+        margin-right: 30px;
+    }
+
+    #img {
+        width: 100px;
+    }
+
+    #data_name {
+        font-size: 16px;
+    }
+
+    #data_icons_wrapper .icon_button_a {
+
+        margin: 5px;
+        
+        .icon {
+            font-size: 16px;
+        }
+    }
+
+    #data_ul {
+        margin-left: 30px;
+        .data_li_content {
+            text-indent: 0.5em;
+        }
+    }
+
+
+
+
+
+
+
+    #main .page > h1 {
+        font-size: 32px;
+    }
+
+}

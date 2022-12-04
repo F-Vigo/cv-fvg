@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+@use "reset-css" as *;
+@use "./responsiveness/prebig.scss" as *;
+@use "./responsiveness/medium.scss" as *;
+@use "./responsiveness/small.scss" as *;
+
+$aside-width: 25%;
+
+* {
+    color: silver;
+    font-family: "Georgia";
+}
+
+i {
+    font-style: italic;
+    i {
+        font-style: normal;
+    }
+}
+
+body {
+    background-color: rgb(25,25,25);
+}
+
+#app {
+    box-sizing: border-box;
+    width: calc(100% - 20px);
+    min-height: calc(100vh - 20px);
+    margin: 10px;
+    border: 1px solid silver;
+
+    display: flex;
+
+    #aside {
+        width: $aside-width;
+    }
+    #main {
+        width: calc(100% - $aside-width);
+    }
+
+    div.clearFloat {
+        float: none;
+        clear: both;
+    }
+
+}

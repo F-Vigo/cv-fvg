@@ -1,0 +1,52 @@
+#data_separator {
+    margin: 50px auto 50px auto;
+    width: 50%;
+    height: 1px;
+    background-color: silver;
+}
+
+#data_name {
+    padding: 0 10px;
+    font-family: "Abril Fontface";
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#data_ul {
+    list-style-type: circle;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.data_li {
+    margin-bottom: 10px;
+}
+
+.data_li_title {
+    font-weight: bold;
+}
+
+.data_li_content {
+    text-indent: 1em;
+    font-size: 12px;
+}   
+
+
+
+
+
+#data_icons_wrapper {
+
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-evenly;
+
+    .icon_button_a .button_button {
+        cursor: pointer;
+        .icon {
+        margin: 10px;
+        font-size: 20px;
+    }
+    }
+}

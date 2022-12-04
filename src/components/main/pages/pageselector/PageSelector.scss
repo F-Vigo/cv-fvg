@@ -1,0 +1,27 @@
+#page_selector {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#button_wrapper {
+
+    height: 100%;
+    text-align: justify;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: space-evenly;
+   
+    > div {
+        display: inline-block;
+    }
+}
+
+.section_button_p {
+    line-height: 32px;
+    margin: 15px;
+    font-size: 32px;
+    font-family: "Abril Fatface", "Georgia";
+}
