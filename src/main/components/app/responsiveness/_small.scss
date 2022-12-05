@@ -1,0 +1,49 @@
+@media screen and (max-width: 576px) {
+
+    #app {
+        display: block !important;
+        height: auto !important;
+
+        #aside, #main {
+            width: 100% !important;
+        }
+    }
+
+    #aside {
+        border-bottom: 1px solid silver;
+    }
+
+    
+    #lang_selector_button {
+        margin-left: 50px !important;
+    }
+
+    #lang_selector_ul {
+        left: 100px !important;
+    }
+
+    #back_button {
+        margin-right: 50px;
+    }
+
+    #img {
+        width: 150px;
+    }
+
+    #data_name {
+        font-size: 32px;
+    }
+
+    #data_icons_wrapper .icon_button_a .icon {
+        font-size: 32px;
+    }
+
+    #data_ul {
+        margin-left: 75px;
+        margin-bottom: 30px;
+        .data_li_content {
+            text-indent: 1em;
+        }
+    }
+
+}

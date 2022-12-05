@@ -4,5 +4,49 @@
     "EDUCATION": "Datos académicos",
     "SKILLS": "Tecnologías",
     "LANGUAGES": "Idiomas",
-    "OTHER": "Otros datos de interés"
+    "OTHER": "Otros datos de interés",
+
+    "email": "Correo electrónico",
+    "age": "Edad actual",
+    "city": "Ciudad de residencia",
+
+    "aboutPageParagraph1": "¡Hola! Me llamo Francisco, o Fran o Vigo para los amigos. Soy graduado en Matemáticas por la Universidad de Málaga, aunque mientras lo estudiaba descubrí que me apasiona programar. Al acabar, empecé a trabajar como ingeniero de software <i>fullstack</i> con Java (con Spring) como principal lenguaje de programación. También he estudiado un Máster de Ciencia de datos por la Universidad de Granada.",
+    "aboutPageParagraph2": "He trabajado con HTML5 y con el <i>framework</i> React en determinados proyectos personales (no dudes en pasarte por mi GitHub). También con Python, además de usarlo como herramienta de cálculo científico en el grado y de ciencia de datos y <i>Machine Learning</i> en el máster. Aun así, los lenguajes con los que más cómodo me siento son Java, mi principal herramienta de trabajo en mis años de experiencia laboral, y Scala, un lenguaje que, como Kotlin, trabaja sobra la JVM e integra de forma nativa la programación orientada a objetos y funcional. En «Conocimientos y aptitudes» tienes más información sobre las tecnologías que conozco.",
+    "aboutPageParagraph3": "Siendo tan amplio (¡y cada día más!) el mundo de las nuevas tecnologías, intento ser cada día de trabajo el niño despierto que lo ve todo con fascinación y ganas de aprender, pero no creo que sea esa mi principal cualidad, ni de la que más me precio. La primera de ellas la entrené en mis años de universidad, y es mi enfoque analítico. Ante cualquier problema que venga, no hay nada como pararse y estudiarlo. Diseccionarlo, con papel y bolígrafo, permite entender cuáles son sus detalles, sus dificultades, las posibles soluciones y el valor que aporta cada una, los actores implicados y, en general, cualquier aspecto relevante. Planificar lo es todo. Mi otra virtud, no menos importante, es la de la comunicación. En cualquier ámbito de la vida, pero especialmente en un contexto tan potencialmente complejo como un ambiente de trabajo, una comunicación de calidad es imprescindible. Que el mensaje se transmita con claridad, con precisión, y sobre todo, con efectividad, es en ocasiones más complicado de lo que cabría esperar, como también puede serlo recibirlo y garantizar que se ha entendido. Por esta razón, me esfuerzo siempre por cuidar cómo me expreso como un artesano y cómo atendiendo cuando alguien más habla o escribe.",
+    "aboutPageParagraph4": "Te doy la bienvenida a mi CV web. Si crees que puedo ayudarte con cualquier cosa, ¡pregúntame lo que quieras!",
+
+    "experiencePageGraduate": "<i>Graduate Engineer</i> (septiembre 2019 - marzo 2020).",
+    "experiencePageJunior": "<i>Junior Software Engineer</i> (marzo 2020 - septiembre 2020).",
+    "experiencePageMiddle": "<i>Software Engineer</i> (septiembre 2020 - septiembre 2021).",
+    "experiencePageParagraph1": "Como desarrollador en The Workshop, trabajé fundamentalmente (pero no exclusivamente) en tareas de <i>backend</i> con proyectos escritos en Java (1.8 y 11) con Maven 3 y el <i>framework</i> Spring Boot. Mis responsabilidades iban desde la planificación y escritura del código hasta el testeo (a varios niveles) y el despliegue. Todo el trabajo se enmarcaba en una metodología <i>agile</i> siguiendo el modelo SCRUM.",
+    "experiencePageParagraph2": "Uno de los primeros proyectos en los que trabajé consiste en el desarrollo de un <i>backend</i> desde cero hasta su despligue. Otros proyectos de interés incluyen la participación en una ETL o el diseño de un mecanismo de reporte mediante la consulta a varias bases de datos.",
+
+    "educationPageUniversity": "Formación universitaria.",
+    "educationPageNonUniversity": "Formación no universitaria.",
+    "educationPageLanguages": "Idiomas.",
+    "educationPageUniversityLi1": "Grado en Matemáticas por la Universidad de Málaga (UMA). 2015-2019. Nota media: 8,49.",
+    "educationPageUniversityLi2": "Participante del programa Erasmus+ en la Universidad de Helsinki, Finlandia, como estudiante de Matemáticas durante el curso 2017-2018.",
+    "educationPageUniversityLi3": "Máster en Ciencia de datos e Ingeniería de computadores por la Universidad de Granada (UGR). 2021-2022. Nota media: 8,63.",
+    "educationPageUniversityLi4": "Participante en la Cátedra Talento y Liderazgo de la Universidad de Granda y Alight (V Edición) durante el curso 2021-2022.",
+    "educationPageNonUniversityLi1": "<i>Fundamentos en redes</i>, por EDteam. Certificado expedido en septiembre de 2020.",
+    "educationPageNonUniversityLi2": "<i>Introducción a la Inteligencia Artificial</i>, por EDteam. Certificado expedido en octubre de 2020.",
+    "educationPageNonUniversityLi3": "<i>Máster en CSS: <i>Responsiveness</i>, SASS, Flexbox, Grid y Bootstrap</i>, por Udemy. Certificado expedido en octubre de 2022.",
+    "educationPageNonUniversityLi4": "<i>The complete Google Sheets Course: Beginner to Advanced!</i>, por Udemy. Certificado expedido en noviembre de 2022.",
+    "educationPageNonUniversityLi5": "<i>The complete SQL Bootcamp 2022: Go from Zero to Hero (PostgreSQL)</i>, por Udemy. Certificado expedido en noviembre de 2022.",
+    "educationPageLanguagesLi1": "<i>Cambridge English: Preliminary</i> (B1 en inglés) por Cambridge University Press & Assessment English. Certificado expedido en enero de 2014.",
+    "educationPageLanguagesLi2": "<i>Cambridge English: First</i> (B2 en inglés) por Cambridge University Press & Assessment English. Certificado expedido en julio de 2014.",
+    "educationPageLanguagesLi3": "<i>Cambridge English: Advanced</i> (C1 en inglés) por Cambridge University Press & Assessment English. Certificado expedido en agosto de 2016.",
+
+    "skillsPageJavaRelated": "Relacionadas con Java.",
+    "skillsPageSpring": "Spring y Spring Boot.",
+    "skillsPageJSRelated": "Relacionadas con JavaScript.",
+    "skillsPageOtherLanguages": "Otros lenguajes.",
+    "skillsPageOthers": "Otros.",
+
+    "languagesPageES": "Español nivel nativo.",
+    "languagesPageEN": "Inglés con nivel C1 por Cambridge University Press & Assessment English. Puesto en práctica durante el curso escolar 2017-2018 en la Universidad de Helsinki, Finlandia, y durante mis años de experiencia laboral en un ambiente internacional.",
+
+    "otherPageLi1": "Candidato a los VII Premios de Educación «Ciudad de Málaga» 2015.",
+    "otherPageLi2": "Muy buenas capacidades comunicativas.",
+    "otherPageLi3": "Publicaciones en Amazon:"
 }
