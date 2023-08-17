@@ -45,7 +45,7 @@ export const Data: FC<DataProps> = () => {
                     [
                         ["email", "f.vigo00@gmail.com"],
                         ["age", getCurrentAge().toString()],
-                        ["city", "Málaga"]
+                        ["city", "Madrid"]
 
                     ].map(item => <DataLi key={item[0]} title={item[0]} content={item[1]} />)
                 }                
