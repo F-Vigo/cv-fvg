@@ -34,6 +34,7 @@ export const Education: FC<EducationProps> = () => {
                             <li dangerouslySetInnerHTML={{__html: t("educationPageNonUniversityLi6")}}/>
                             <li dangerouslySetInnerHTML={{__html: t("educationPageNonUniversityLi7")}}/>
                             <li dangerouslySetInnerHTML={{__html: t("educationPageNonUniversityLi8")}}/>
+                            <li dangerouslySetInnerHTML={{__html: t("educationPageNonUniversityLi9")}}/>
                         </ul>
                     </li>
 

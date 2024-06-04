@@ -14,6 +14,12 @@ export const Experience: FC<ExperienceProps> = () => {
             <article>
                 <ul>
                     <li>
+                        <p>RatedPower</p>
+                        <ul>
+                            <li dangerouslySetInnerHTML={{__html: t("experiencePageRatedPower")}}/>
+                        </ul>
+                    </li>
+                    <li>
                         <p>Accelya Group</p>
                         <ul>
                             <li dangerouslySetInnerHTML={{__html: t("experiencePageAccelya")}}/>
@@ -31,6 +37,7 @@ export const Experience: FC<ExperienceProps> = () => {
                 </ul>
                 <p dangerouslySetInnerHTML={{__html: t("experiencePageParagraph1")}}/>
                 <p dangerouslySetInnerHTML={{__html: t("experiencePageParagraph2")}}/>
+                <p dangerouslySetInnerHTML={{__html: t("experiencePageParagraph3")}}/>
             </article>
         </div>
     )
